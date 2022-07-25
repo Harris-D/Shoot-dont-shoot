@@ -1,2 +1,19 @@
 # Shoot-dont-shoot
-A repository to store code for an cognitive training task created for a Ministry of Defence funded research project.
+A repository to store code for a cognitive training task created for a Ministry of Defence funded research project.
+
+This project examined whether an inhibition training task (based on Ducrocq et al., 2016) was effective at enhancing cognitive function in both armed police and civilian populations. 
+
+Includes code for:
+1. An inhibition task that uses a singleton distractor to develop inhibition capability
+2. A matched active control task that involes the same visual search element but without the singleton
+3. A shoot/don't-shoot task based on Nieuwenhuys et al. 2012
+4. A standard version of the Eriksen flanker task
+
+Code can also be accessed from:  https://gitlab.pavlovia.org/Harris
+Or the tasks can be downloaded from Pavlovia. 
+
+
+
+
+- Ducrocq, E., Wilson, M., Vine, S., & Derakshan, N. (2016). Training attentional control improves cognitive and motor task performance. Journal of sport and exercise psychology, 38(5), 521-533.
+- Nieuwenhuys, A., Savelsbergh, G. J., & Oudejans, R. R. (2012). Shoot or don't shoot? Why police officers are more inclined to shoot when they are anxious. Emotion, 12(4), 827.
