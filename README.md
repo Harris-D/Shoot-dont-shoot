@@ -5,8 +5,14 @@ This project examined whether an inhibition training task (based on Ducrocq et a
 
 Includes code for:
 1. An inhibition task that uses a singleton distractor to develop inhibition capability
+<img width="206" alt="image" src="https://user-images.githubusercontent.com/105279529/180730269-f4e475c4-e51b-449f-b52e-d62823dc9f3b.png">
+
 2. A matched active control task that involes the same visual search element but without the singleton
+<img width="197" alt="image" src="https://user-images.githubusercontent.com/105279529/180730303-11ee1705-014a-497d-a6f1-827e9238e4fb.png">
+
 3. A shoot/don't-shoot task based on Nieuwenhuys et al. 2012
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/105279529/180730217-90127ce7-ff56-4a4f-858e-5f5ee454cde6.png">
+
 4. A standard version of the Eriksen flanker task
 <img width="201" alt="image" src="https://user-images.githubusercontent.com/105279529/180730094-b79b649d-d03f-4237-9e3d-f77bb61030f7.png">
 
