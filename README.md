@@ -8,6 +8,8 @@ Includes code for:
 2. A matched active control task that involes the same visual search element but without the singleton
 3. A shoot/don't-shoot task based on Nieuwenhuys et al. 2012
 4. A standard version of the Eriksen flanker task
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/105279529/180730094-b79b649d-d03f-4237-9e3d-f77bb61030f7.png">
+
 
 Code can also be accessed from:  https://gitlab.pavlovia.org/Harris
 Or the tasks can be downloaded from Pavlovia. 
