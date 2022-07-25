@@ -1,5 +1,5 @@
 # Shoot-dont-shoot
-A repository to store code for a cognitive training task created for a Ministry of Defence funded research project.
+A repository to store Python code for a cognitive training task created for a Dstl (Ministry of Defence) funded research project (Human and Social Science Research Capability - project HS1.030).
 
 This project examined whether an inhibition training task (based on Ducrocq et al., 2016) was effective at enhancing cognitive function in both armed police and civilian populations. 
 
